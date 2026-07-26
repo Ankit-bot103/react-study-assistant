@@ -1,6 +1,6 @@
 # React Study Assistant 🚀✨
 
-<img width="1917" height="1022" alt="demo_image1" src="https://github.com/user-attachments/assets/3da8c496-511e-4b5a-85d2-2e2694fcb755" />
+
 <img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/9d8dd22f-8dbd-4c52-9219-860b6d65be9e" />
 
 
