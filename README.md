@@ -1,6 +1,8 @@
 # React Study Assistant 🚀✨
 
-![React Study Assistant Banner](readme_banner.png)
+<img width="1917" height="1022" alt="demo_image1" src="https://github.com/user-attachments/assets/3da8c496-511e-4b5a-85d2-2e2694fcb755" />
+<img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/9d8dd22f-8dbd-4c52-9219-860b6d65be9e" />
+
 
 ## 🙋‍♀️ Human Representation
 
@@ -40,7 +42,8 @@ React Study Assistant is a **premium‑grade** web application built for the Fro
 ---
 
 ## 🎥 Demo
-<img src="./demo_image.png" alt="Demo" style="max-width:100%; height:auto;"/>
+<img width="1917" height="1022" alt="demo_image1" src="https://github.com/user-attachments/assets/fc9ce853-03cf-4958-b62c-5c786045da8c" />
+
 
 ---
 
@@ -201,5 +204,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 *End of README*
-#   r e a c t - s t u d y - a s s i s t a n t  
- 
