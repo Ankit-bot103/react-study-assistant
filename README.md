@@ -204,5 +204,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-*End of README*<img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/46244a28-3191-4b8e-9911-65e61a43d8fd" />
+*End of README*
 
