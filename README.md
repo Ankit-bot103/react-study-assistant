@@ -1,7 +1,6 @@
 # React Study Assistant 🚀✨
 
-
-<img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/9d8dd22f-8dbd-4c52-9219-860b6d65be9e" />
+<img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/1c358d0c-cd6f-4650-be1e-618a7dc82526" />
 
 
 ## 🙋‍♀️ Human Representation
@@ -9,6 +8,8 @@
 <img src="./human_image.png" alt="React Study Assistant Human" style="max-width:100%; height:auto;" />
 
 [![License](https://img.shields.io/github/license/Ankit-bot103/react-study-assistant)](LICENSE) [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/) [![npm](https://img.shields.io/badge/npm-%3E%3D9-blue)](https://www.npmjs.com/)
+
+[Live Demo](https://ankit-bot103.github.io/react-study-assistant)
 
 A premium, interactive study tool that transforms unstructured notes, texts, or topics into structured, interactive study workspaces. The app automatically builds high‑fidelity **Checklists**, **3D Flashcards**, and **Dynamic Quizzes** powered by Gemini AI, with real‑time refinement, local persistence, and keyboard navigation.
 
@@ -42,7 +43,7 @@ React Study Assistant is a **premium‑grade** web application built for the Fro
 ---
 
 ## 🎥 Demo
-<img width="1917" height="1022" alt="demo_image1" src="https://github.com/user-attachments/assets/fc9ce853-03cf-4958-b62c-5c786045da8c" />
+<img width="1917" height="1022" alt="demo_image1" src="https://github.com/user-attachments/assets/310d931a-f17c-487f-8a7d-0aaddf17d1e2" />
 
 
 ---
@@ -192,15 +193,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 ---
 
 ## 📜 License
-MIT License
-
-copyright Ankit Miital 2026
-
-permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "software"), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following conditions:
-
-the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
-
-the software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -211,4 +204,5 @@ the software is provided "as is", without warranty of any kind, express or impli
 
 ---
 
-*End of README*
+*End of README*<img width="1024" height="1024" alt="human_image" src="https://github.com/user-attachments/assets/46244a28-3191-4b8e-9911-65e61a43d8fd" />
+
