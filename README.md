@@ -13,7 +13,7 @@
 
 A premium, interactive study tool that transforms unstructured notes, texts, or topics into structured, interactive study workspaces. The app automatically builds high‑fidelity **Checklists**, **3D Flashcards**, and **Dynamic Quizzes** powered by Gemini AI, with real‑time refinement, local persistence, and keyboard navigation.
 
-## Link 
+## Link to opening website
 - [frontend](https://react-study-assistant.vercel.app/)
 - [backend](http://localhost:5000/)
 
