@@ -13,6 +13,11 @@
 
 A premium, interactive study tool that transforms unstructured notes, texts, or topics into structured, interactive study workspaces. The app automatically builds high‑fidelity **Checklists**, **3D Flashcards**, and **Dynamic Quizzes** powered by Gemini AI, with real‑time refinement, local persistence, and keyboard navigation.
 
+Link : 
+[frontend]https://react-study-assistant.vercel.app/
+[backend]http://localhost:5000/
+
+
 ---
 
 ## 📚 Table of Contents
@@ -193,7 +198,15 @@ See `CONTRIBUTING.md` for detailed guidelines.
 ---
 
 ## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+MIT License
+
+Copyright (c) 2026 Ankit Mittal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files to use, copy, modify,
+and distribute the software.
+
+The software is provided "as is", without warranty of any kind.
 
 ---
 
