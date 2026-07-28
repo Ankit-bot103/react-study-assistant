@@ -16,7 +16,7 @@ A premium, interactive study tool that transforms unstructured notes, texts, or 
 ## Link to opening website
 - [frontend](https://react-study-assistant.vercel.app/)
 - [backend](http://localhost:5000/)
-- [RecordingLink]("C:\Users\mitta\Videos\Screen Recordings\Screen Recording 2026-07-28 153000.mp4")
+- [RecordingLink](C:\Users\mitta\Videos\Screen Recordings\Screen Recording 2026-07-28 153000.mp4)
 
 
 ---
